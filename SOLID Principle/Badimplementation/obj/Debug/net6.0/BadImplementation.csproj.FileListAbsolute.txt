@@ -1,0 +1,12 @@
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\bin\Debug\net6.0\BadImplementation.deps.json
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\bin\Debug\net6.0\BadImplementation.dll
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\bin\Debug\net6.0\BadImplementation.pdb
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.csproj.AssemblyReference.cache
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.AssemblyInfoInputs.cache
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.AssemblyInfo.cs
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.dll
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\refint\BadImplementation.dll
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\BadImplementation.pdb
+C:\Users\Natek\Desktop\SOLID Principle\Badimplementation\obj\Debug\net6.0\ref\BadImplementation.dll

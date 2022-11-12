@@ -1,0 +1,12 @@
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\bin\Debug\net6.0\ProperImplemention.deps.json
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\bin\Debug\net6.0\ProperImplemention.dll
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\bin\Debug\net6.0\ProperImplemention.pdb
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.csproj.AssemblyReference.cache
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.AssemblyInfoInputs.cache
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.AssemblyInfo.cs
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.csproj.CoreCompileInputs.cache
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.dll
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\refint\ProperImplemention.dll
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ProperImplemention.pdb
+C:\Users\Natek\Desktop\SOLID Principle\SRPimplemention\obj\Debug\net6.0\ref\ProperImplemention.dll
