@@ -1,8 +1,8 @@
 ﻿namespace BadImplementation
 {
-    public class AreaCalculator
+    public class ShapeManager
     {
-        public double Area(object[] shapes)
+        public double CumulativeArea(object[] shapes)
         {
             double area = 0;
             foreach (var shape in shapes)

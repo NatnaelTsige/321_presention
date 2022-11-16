@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xizv24DoQyNxIKQ8OcLWk0IRI0n0OKOom5y0UEAdL91sOGmTXQp6T1rIPT8myVJdpLkBfzZ3cXtEVLACCwSZ9g==",
+  "dgSpecHash": "wc19TfWC1mVKCkPNlza3PxzzdFjNDzKfap6tu3GQyKgEuaUyLkWtXNKe6y+csqhxJNSZRmwAeAZF+bdyzTwiHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
+  "projectFilePath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Natek\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

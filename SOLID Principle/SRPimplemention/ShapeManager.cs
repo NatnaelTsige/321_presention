@@ -1,8 +1,8 @@
 ﻿namespace ProperImplemention
 {
-    public class CalculateArea
+    public class ShapeManager
     {
-        public double Area(Shape[] shapes)
+        public double CumulativeArea(Shape[] shapes)
         {
             double area = 0;
             foreach (var shape in shapes)

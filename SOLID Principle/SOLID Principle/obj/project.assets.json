@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
+      "projectUniqueName": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
       "projectName": "SOLID Principle",
-      "projectPath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
+      "projectPath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
       "packagesPath": "C:\\Users\\Natek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SOLID Principle\\obj\\",
+      "outputPath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SOLID Principle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,11 +103,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Natek\\Desktop\\SOLID Principle\\Badimplementation\\BadImplementation.csproj": {
-              "projectPath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\Badimplementation\\BadImplementation.csproj"
+            "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\Badimplementation\\BadImplementation.csproj": {
+              "projectPath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\Badimplementation\\BadImplementation.csproj"
             },
-            "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj": {
-              "projectPath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj"
+            "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj": {
+              "projectPath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj"
             }
           }
         }

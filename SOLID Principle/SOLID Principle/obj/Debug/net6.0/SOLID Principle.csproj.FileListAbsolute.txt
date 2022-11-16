@@ -18,3 +18,23 @@ C:\Users\Natek\Desktop\SOLID Principle\SOLID Principle\bin\Debug\net6.0\ProperIm
 C:\Users\Natek\Desktop\SOLID Principle\SOLID Principle\bin\Debug\net6.0\BadImplementation.pdb
 C:\Users\Natek\Desktop\SOLID Principle\SOLID Principle\bin\Debug\net6.0\ProperImplemention.pdb
 C:\Users\Natek\Desktop\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.csproj.CopyComplete
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\SOLID Principle.exe
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\SOLID Principle.deps.json
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\SOLID Principle.runtimeconfig.json
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\SOLID Principle.dll
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\SOLID Principle.pdb
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\BadImplementation.dll
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\ProperImplemention.dll
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\BadImplementation.pdb
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\bin\Debug\net6.0\ProperImplemention.pdb
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.csproj.AssemblyReference.cache
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.AssemblyInfoInputs.cache
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.AssemblyInfo.cs
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.csproj.CoreCompileInputs.cache
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.csproj.CopyComplete
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.dll
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\refint\SOLID Principle.dll
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.pdb
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\SOLID Principle.genruntimeconfig.cache
+C:\Users\Natek\Desktop\GIt clone\321_presention\SOLID Principle\SOLID Principle\obj\Debug\net6.0\ref\SOLID Principle.dll

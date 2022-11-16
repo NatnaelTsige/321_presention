@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj": {}
+    "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj": {
+    "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj",
+        "projectUniqueName": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj",
         "projectName": "ProperImplemention",
-        "projectPath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj",
+        "projectPath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\ProperImplemention.csproj",
         "packagesPath": "C:\\Users\\Natek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SRPimplemention\\obj\\",
+        "outputPath": "C:\\Users\\Natek\\Desktop\\GIt clone\\321_presention\\SOLID Principle\\SRPimplemention\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

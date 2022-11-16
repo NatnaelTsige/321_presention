@@ -12,19 +12,19 @@ namespace Spreadsheet_Natnael_Tsige
     /// <summary>
     /// Auto generated calss. The main enatry to the slotion.
     /// </summary>
-    internal static class Program
+    internal static class Demo
     {
         private static void Main(string[] args)
         {
-            /*
+           /*
             List<Bird> birds = new List<Bird>();
             birds.Add(new Bird());
             letBirdsFly(birds);
 
             List<Bird> birds2 = new List<Bird>();
             birds2.Add(new Swan());
-            letBirdsFly(birds2
-            */
+            letBirdsFly(birds2);*/
+            
 
             List<Bird> birds3 = new List<Bird>();
             birds3.Add(new Penguin());
