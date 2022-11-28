@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace GoodImplementation
 {
-    internal class StoreManager
+    internal class StoreManager : IStoreManager
     {
+        public void CheckStock()
+        {
+            Console.WriteLine("Current stock of the store includes: ...");
+            // Check stock of store!
+        }
+
+        public void Restock()
+        {
+            Console.WriteLine("Items restocked!");
+            // Restock stock!
+        }
     }
 }

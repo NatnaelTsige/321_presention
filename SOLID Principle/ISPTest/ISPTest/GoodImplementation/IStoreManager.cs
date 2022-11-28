@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoodImplementation
 {
-    internal class IStoreManager
+    internal interface IStoreManager
     {
+        public void CheckStock();
+        public void Restock();
     }
 }
