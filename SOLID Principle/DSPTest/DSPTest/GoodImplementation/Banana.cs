@@ -1,8 +1,8 @@
-﻿namespace BadImplementation
+﻿namespace GoodImplementation
 {
-    public class Banana
+    public class Banana : IFruit
     {
-        public void NumType(int num)
+        public void DisplayInfo(int num)
         {
             Console.WriteLine(num);
             Console.WriteLine("Banana!");

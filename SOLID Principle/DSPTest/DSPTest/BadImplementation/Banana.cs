@@ -2,7 +2,7 @@
 {
     public class Banana
     {
-        public void NumType(int num)
+        public void DisplayInfo(int num)
         {
             Console.WriteLine(num);
             Console.WriteLine("Banana!");

@@ -2,6 +2,6 @@
 {
     public interface IFruit
     {
-        void NumType(int num);
+        void DisplayInfo(int num);
     }
 }

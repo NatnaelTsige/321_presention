@@ -11,12 +11,12 @@ namespace BadImplementation
         public void CheckApple(int num)
         {
             Apple apple = new Apple(); // Create a new apple.
-            apple.NumType(num);
+            apple.DisplayInfo(num);
         }
         public void CheckBanana(int num)
         {
             Banana banana = new Banana(); // Create a new banana.
-            banana.NumType(num);
+            banana.DisplayInfo(num);
         }
     }
 }

@@ -19,7 +19,7 @@ namespace GoodImplementation
         // Just one function for all fruits.
         public void CheckFruit(int num) 
         {
-            this._fruit.NumType(num);
+            this._fruit.DisplayInfo(num);
         }
     }
 }

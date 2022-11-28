@@ -2,19 +2,8 @@
 {
     public interface StoreOwner
     {
-        public void CheckStock()
-        {
-            // Check stock of store!
-        }
-
-        public void Restock()
-        {
-            // Restock stock!
-        }
-
-        public void ChangeStock()
-        {
-            // Change stock!
-        }
+        public void CheckStock();
+        public void Restock();
+        public void ChangeStock();
     }
 }
