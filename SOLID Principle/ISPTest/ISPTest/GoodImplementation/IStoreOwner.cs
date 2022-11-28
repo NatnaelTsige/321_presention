@@ -1,7 +1,7 @@
 ﻿namespace GoodImplementation
 {
-    public class IStoreOwner
+    public interface IStoreOwner
     {
-
+        public void ChangeStock();
     }
 }
